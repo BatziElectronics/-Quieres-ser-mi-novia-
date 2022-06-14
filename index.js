@@ -6,9 +6,9 @@ const documentReady = () => {
   const heroButtonNo = document.querySelector('#heroButtonNo');
 
   const nowZomosNobios = () => {
-    alert('Ahora eres mi novia');
+    alert('Ahora eres mi novia 7w7');
     alert('Dime que me amas xd');
-    location.href = '#';
+    location.href = 'https://batzielectronics.github.io/Bienvenida/';
   };
 
   const evitarKCRompanMyBobo = () => {
