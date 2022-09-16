@@ -6,7 +6,7 @@ const documentReady = () => {
   const heroButtonNo = document.querySelector('#heroButtonNo');
 
   const nowZomosNobios = () => {
-    alert('Tengo a la mexicana mas hermosa por novia 7w7');
+    alert('Sabía que ibas a decir que si 7w7');
     alert('Dime que me amas xd');
     location.href = 'https://batzielectronics.github.io/Bienvenida/';
   };
