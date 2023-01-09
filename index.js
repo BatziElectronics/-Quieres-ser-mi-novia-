@@ -7,7 +7,7 @@ const documentReady = () => {
 
   const nowZomosNobios = () => {
     alert('Sabía que ibas a decir que si 7w7');
-    location.href = 'https://batzielectronics.github.io/registro/';
+    location.href = 'https://batzielectronics.github.io/Bienvenida/';
   };
 
   const evitarKCRompanMyBobo = () => {
