@@ -22,7 +22,8 @@ body {
   box-shadow: 0 0.5rem 0.5rem 0 black;
 }
 .im {
-  width: 100%;
+  width: 100px;
+  height: 100px;
 }
 .button {
   background: white;
