@@ -16,13 +16,11 @@ body {
 }
 .hero__image-container {
   display: flex;
-  width: 50%;
-  max-width: 512px;
-  overflow: hidden;
-  box-shadow: 0 0.5rem 0.5rem 0 black;
+  justify-content: center;
+  aling-items: center;
 }
 .im {
-  width: 50%;
+  width: 80%;
 }
 .button {
   background: white;
