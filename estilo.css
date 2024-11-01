@@ -5,7 +5,8 @@ body {
 }
 h1 {
   text-align: center;
-  font-size: 10px;
+  font-size: 20px;
+  color: black;
 }
 .hero__image-container {
   display: flex;
